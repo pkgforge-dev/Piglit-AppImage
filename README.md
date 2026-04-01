@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Piglit-AppImage)](https://github.com/pkgforge-dev/Piglit-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/Link4Electronics/Piglit-AppImage/blob/main/AppDir/piglit.png" width="128" />
 </p>
 
 
