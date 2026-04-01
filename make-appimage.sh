@@ -13,7 +13,7 @@ export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/piglit /usr/lib/piglit/lib/*.so #/usr/lib/piglit/* /usr/lib/libpig*.so /usr/lib/libhiz-util.so /usr/lib/libpiglitglxutil.so 
+quick-sharun /usr/bin/piglit /usr/lib/piglit #/usr/lib/piglit/lib/*.so #/usr/lib/libpig*.so /usr/lib/libhiz-util.so /usr/lib/libpiglitglxutil.so 
 
 # Additional changes can be done in between here
 
