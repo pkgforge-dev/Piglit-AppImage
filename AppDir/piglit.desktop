@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Piglit
+Exec=piglit
+Terminal=true
+Type=Application
+Icon=piglit
+Comment="A collection of automated tests for OpenGL, Vulkan, and OpenCL implementations"
+Categories=Graphics;OpenGL;testsuite;
