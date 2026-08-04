@@ -16,7 +16,7 @@ echo "---------------------------------------------------------------"
 get-debloated-pkgs --add-common --prefer-nano
 
 # Comment this out if you need an AUR package
-PRE_BUILD_CMDS='patch -Np1 -i ../fixcompile.patch' make-aur-package waffle
+make-aur-package waffle
 make-aur-package vkrunner-git
 make-aur-package piglit-git
 
