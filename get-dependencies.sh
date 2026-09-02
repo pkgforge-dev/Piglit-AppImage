@@ -8,7 +8,6 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
     cargo          \
-    python         \
     vulkan-headers
 
 echo "Installing debloated packages..."
